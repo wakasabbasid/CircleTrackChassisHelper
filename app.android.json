@@ -1,0 +1,37 @@
+{
+    "expo": {
+      "name": "Circle Track Chassis Helper",
+      "slug": "CircleTrackChassisHelper",
+      "privacy": "public",
+      "sdkVersion": "34.0.0",
+      "scheme": "circletrackchassishelper",
+      "platforms": [
+        "ios",
+        "android",
+        "web"
+      ],
+      "version": "3.0.0",
+      "orientation": "portrait",
+      "icon": "./assets/ItunesArtwork@2x.png",
+      "splash": {
+        "image": "./assets/splash1.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#000000"
+      },
+      "updates": {
+        "fallbackToCacheTimeout": 0
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "ios": {
+        "supportsTablet": true,
+        "bundleIdentifier": "com.afloatart.circletrackchassishelper"
+      },
+      "android": {
+        "package": "com.afloatart.circletrackchassis.helper",
+        "versionCode":3
+      },
+      "description": ""
+    }
+  }
